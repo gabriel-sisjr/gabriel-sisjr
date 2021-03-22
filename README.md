@@ -3,7 +3,7 @@
 ## E aí, pessoal! Gabriel aqui, tranquilo?!
 
 :fire: Atualmente sou estudante de **Sistemas de Informação** na **Universidade Federal de Sergipe.**
-<br /> :purple_heart: Trabalho com .NET, PHP e a Stack JavaScript/TypeScript
+<br /> :purple_heart: Trabalho com .NET, .NET Core e a Stack JavaScript/TypeScript
 <br /> :computer: Apaixonado pela stack ReactJS, NodeJS, React Native e suas tecnologias
 <br /> :computer: Sempre focado em aprender e ensinar as pessoas sobre isso que amo, programação
 
