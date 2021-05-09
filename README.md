@@ -12,3 +12,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sisjr/)](https://www.linkedin.com/in/gabriel-sisjr/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.sistemasjr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.sistemasjr@gmail.com)](mailto:gabriel.sistemasjr@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@gabriiel.santana.__-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriiel.santana._/)](https://www.instagram.com/gabriiel.santana._/)
+
+-------
+
+# Gabriel Santana
+
+## Hey guys! Gabriel here, cool?!
+
+:fire: I am currently a student of **Information Systems** at **Federal University of Sergipe.**
+<br />:purple_heart: Working with .NET, .NET Core and the JavaScript / TypeScript Stack
+<br />:computer: Passionate about the ReactJS, NodeJS, React Native stack and its technologies
+<br />:computer: Always focused on learning and teaching people about what I love, programming
+
+<br />:email: Any questions or suggestions, get in touch with me, ok?!
+<br /><br />
+[![Linkedin Badge](https://img.shields.io/badge/-GabrielSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sisjr/)](https://www.linkedin.com/in/gabriel-sisjr/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.sistemasjr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.sistemasjr@gmail.com)](mailto:gabriel.sistemasjr@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@gabriiel.santana.__-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriiel.santana._/)](https://www.instagram.com/gabriiel.santana._/)
