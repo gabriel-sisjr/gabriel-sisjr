@@ -6,7 +6,7 @@
 
 ## Olá! :)
 
-Meu nome é Gabriel Santana, tenho 25 anos, trabalho com desenvolvimento há 5 anos, possuo conhecimentos em .NET, NodeJS, Docker, AWS e entre outras techs.
+Meu nome é Gabriel Santana, tenho 26 anos, trabalho com desenvolvimento há 6 anos, possuo conhecimentos em .NET, NodeJS, Docker, AWS e entre outras techs.
 <br>
 <br>
 
