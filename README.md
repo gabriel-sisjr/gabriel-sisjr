@@ -1,40 +1,77 @@
-# Gabriel Santana :man_technologist:
+### Gabriel Santana
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sisjr/)](https://www.linkedin.com/in/gabriel-sisjr/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriel.sistemasjr@gmail.com)](mailto:gabriel.sistemasjr@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579999914349&text=Olá!)](https://api.whatsapp.com/send?phone=5579999914349&text=Olá!)
+Software Engineer • Open-Source Maintainer
 
-## Olá! :)
+I build and maintain production-grade tooling for **location services** and **clean architecture** — from mobile SDKs to backend mediation systems.
 
-Meu nome é Gabriel Santana, tenho 29 anos, trabalho com desenvolvimento há 9 anos, possuo conhecimentos em .NET, NodeJS, Docker, AWS e entre outras techs.
-<br>
-<br>
+Focused on **Background Location**, **Reliable Mobile Data Capture**, and **High-performance .NET Messaging**.
 
-- Sempre focado em manter-me atualizado com as demandas do mercado e novas tecnologias.
-- Amante de Arquitetura, Design Patterns, Microservices e outros.
-- Meus contatos estão acima, sinta-se a vontade para falar. Tmj!
+---
 
-<br>
-<br>
-<br>
+## 🔥 Featured Projects
 
-<div align="center">
-  **Linguagens, Ferramentas e Frameworks** 
-  <br>
-  <br>
+### **react-native-background-location**
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+Reliable background location tracking for **React Native** mobility, logistics & field-ops apps
+Android-first with crash recovery, SQLite persistence (Room), and real-time updates.
 
-</div>
+[![GitHub Stars](https://img.shields.io/github/stars/gabriel-sisjr/react-native-background-location?style=for-the-badge)](https://github.com/gabriel-sisjr/react-native-background-location/stargazers)
+[![npm downloads](https://img.shields.io/npm/dm/@gabriel-sisjr/react-native-background-location?style=for-the-badge\&label=downloads)](https://www.npmjs.com/package/@gabriel-sisjr/react-native-background-location)
+[![GitHub issues](https://img.shields.io/github/issues-raw/gabriel-sisjr/react-native-background-location?style=for-the-badge\&label=issues)](https://github.com/gabriel-sisjr/react-native-background-location/issues)
 
- <div align="center">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=gabriel-sisjr&theme=github_dark&show_icons=true">
- </div>
- <br>
- <div align="center">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-sisjr&layout=compact&theme=github_dark">
- </div>  
- <br>
- <div align="center">
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=gabriel-sisjr&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
- </div>
+✔ **Crash recovery & state restoration** stored via Room DB
+
+✔ High-accuracy GPS + full location metadata support (10+ props)
+
+✔ Real-time updates via native event emitters
+
+✔ Hooks-first API w/ TypeScript (98% coverage)
+
+✔ Production CI/CD automation (beta + stable release channels)
+
+📦 npm: [https://www.npmjs.com/package/@gabriel-sisjr/react-native-background-location](https://www.npmjs.com/package/@gabriel-sisjr/react-native-background-location)
+
+🔗 GitHub: [https://github.com/gabriel-sisjr/react-native-background-location](https://github.com/gabriel-sisjr/react-native-background-location)
+
+---
+
+### **Coordix**
+
+High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notifications without dependencies
+
+[![GitHub Stars](https://img.shields.io/github/stars/gabriel-sisjr/Coordix?style=for-the-badge)](https://github.com/gabriel-sisjr/Coordix/stargazers)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Coordix?style=for-the-badge\&label=downloads)](https://www.nuget.org/packages/Coordix)
+
+✔ Zero external dependencies besides Microsoft DI 
+
+✔ Cached delegates → near-native performance 
+
+✔ Supports Requests, Commands & Domain Events
+
+✔ Automatic handler discovery
+
+📦 NuGet: [https://www.nuget.org/packages/Coordix](https://www.nuget.org/packages/Coordix)
+
+🔗 GitHub: [https://github.com/gabriel-sisjr/Coordix](https://github.com/gabriel-sisjr/Coordix)
+
+---
+
+## 🧩 What I deliver
+
+• Mobile SDKs that **survive crashes**, restarts & long-running ops
+• Data persistence strategies optimized for **Android real-world usage**
+• Distributed/event-driven design in **.NET**
+• CI/CD automation that ensures stability and trust
+
+---
+
+## 💰 Sponsorships & Consulting
+
+Companies rely on my work to keep field teams and mobility apps running.
+If your business depends on **location quality** — let’s talk.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-EA4AAA?style=for-the-badge)](https://github.com/sponsors/gabriel-sisjr)
+
+📬 Email: [gabriel.sistemasjr@gmail.com](mailto:gabriel.sistemasjr@gmail.com)
+
+🔗 LinkedIn: [https://www.linkedin.com/in/gabriel-sisjr/](https://www.linkedin.com/in/gabriel-sisjr/)
