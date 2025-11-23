@@ -50,6 +50,7 @@ High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notific
 ✔ Native DI integration (clean DDD boundaries)
 
 📦 Core: [https://www.nuget.org/packages/Coordix](https://www.nuget.org/packages/Coordix)
+
 🔗 Repo: [https://github.com/gabriel-sisjr/Coordix](https://github.com/gabriel-sisjr/Coordix)
 
 ### **Coordix.Background** — Fire-and-Forget Job Processing
