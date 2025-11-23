@@ -44,7 +44,9 @@ High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notific
 [![GitHub issues](https://img.shields.io/github/issues-raw/gabriel-sisjr/Coordix?style=for-the-badge\&label=issues)](https://github.com/gabriel-sisjr/Coordix/issues)
 
 ✔ Fast delegate execution (no reflection path on hot code)
+
 ✔ Automatic handler discovery across assemblies
+
 ✔ Native DI integration (clean DDD boundaries)
 
 📦 Core: [https://www.nuget.org/packages/Coordix](https://www.nuget.org/packages/Coordix)
@@ -55,7 +57,9 @@ High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notific
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Coordix.Background?style=for-the-badge\&label=downloads)](https://www.nuget.org/packages/Coordix.Background)
 
 • In-process queue using `System.Threading.Channels`
+
 • Background worker w/ scoped lifetime handling
+
 • Ideal for **email**, **logging**, **3rd-party calls**, **async workflows**
 
 📦 [https://www.nuget.org/packages/Coordix.Background](https://www.nuget.org/packages/Coordix.Background)
@@ -65,7 +69,9 @@ High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notific
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Coordix.CodeGen?style=for-the-badge\&label=downloads)](https://www.nuget.org/packages/Coordix.CodeGen)
 
 • Source generators for **handler discovery + registration**
+
 • Eliminates manual wiring & reflection codepaths
+
 • Faster builds, safer refactors, better DX
 
 📦 [https://www.nuget.org/packages/Coordix.CodeGen](https://www.nuget.org/packages/Coordix.CodeGen)
