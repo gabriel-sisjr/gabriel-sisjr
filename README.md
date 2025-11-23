@@ -35,24 +35,40 @@ Android-first with crash recovery, SQLite persistence (Room), and real-time upda
 
 ---
 
-### **Coordix**
+## **Coordix — .NET Messaging Ecosystem**
 
-High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notifications without dependencies
+High-performance mediator for **.NET** — clean CQRS, Requests/Commands/Notifications with **zero dependency overhead**
 
 [![GitHub Stars](https://img.shields.io/github/stars/gabriel-sisjr/Coordix?style=for-the-badge)](https://github.com/gabriel-sisjr/Coordix/stargazers)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Coordix?style=for-the-badge\&label=downloads)](https://www.nuget.org/packages/Coordix)
+[![GitHub issues](https://img.shields.io/github/issues-raw/gabriel-sisjr/Coordix?style=for-the-badge\&label=issues)](https://github.com/gabriel-sisjr/Coordix/issues)
 
-✔ Zero external dependencies besides Microsoft DI 
+✔ Fast delegate execution (no reflection path on hot code)
+✔ Automatic handler discovery across assemblies
+✔ Native DI integration (clean DDD boundaries)
 
-✔ Cached delegates → near-native performance 
+📦 Core: [https://www.nuget.org/packages/Coordix](https://www.nuget.org/packages/Coordix)
+🔗 Repo: [https://github.com/gabriel-sisjr/Coordix](https://github.com/gabriel-sisjr/Coordix)
 
-✔ Supports Requests, Commands & Domain Events
+### **Coordix.Background** — Fire-and-Forget Job Processing
 
-✔ Automatic handler discovery
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Coordix.Background?style=for-the-badge\&label=downloads)](https://www.nuget.org/packages/Coordix.Background)
 
-📦 NuGet: [https://www.nuget.org/packages/Coordix](https://www.nuget.org/packages/Coordix)
+• In-process queue using `System.Threading.Channels`
+• Background worker w/ scoped lifetime handling
+• Ideal for **email**, **logging**, **3rd-party calls**, **async workflows**
 
-🔗 GitHub: [https://github.com/gabriel-sisjr/Coordix](https://github.com/gabriel-sisjr/Coordix)
+📦 [https://www.nuget.org/packages/Coordix.Background](https://www.nuget.org/packages/Coordix.Background)
+
+### **Coordix.CodeGen** — Zero-Boilerplate Handlers
+
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Coordix.CodeGen?style=for-the-badge\&label=downloads)](https://www.nuget.org/packages/Coordix.CodeGen)
+
+• Source generators for **handler discovery + registration**
+• Eliminates manual wiring & reflection codepaths
+• Faster builds, safer refactors, better DX
+
+📦 [https://www.nuget.org/packages/Coordix.CodeGen](https://www.nuget.org/packages/Coordix.CodeGen)
 
 ---
 
